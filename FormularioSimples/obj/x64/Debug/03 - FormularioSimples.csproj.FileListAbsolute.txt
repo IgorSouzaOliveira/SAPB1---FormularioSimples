@@ -1,0 +1,11 @@
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\bin\x64\Debug\FormularioSimples.exe.config
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\bin\x64\Debug\FormularioSimples.exe
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\bin\x64\Debug\FormularioSimples.pdb
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\03 - FormularioSimples.csproj.AssemblyReference.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\03 - FormularioSimples.csproj.ResolveComReference.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\FormularioSimples.Properties.Resources.resources
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\03 - FormularioSimples.csproj.GenerateResource.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\03 - FormularioSimples.csproj.CoreCompileInputs.cache
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\FormularioSimples.exe
+C:\Users\SAPB1\source\repos\CursoSapB1\FormularioSimples\obj\x64\Debug\FormularioSimples.pdb
